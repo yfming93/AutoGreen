@@ -46,10 +46,6 @@
 [auto-green](https://github.com/AndersonHJB/AutoGreen) is released under the MIT License. See the bundled [LICENSE](./LICENSE) file for details.
 
 
-
-![公众号：AI悦创.jpg](README.assets/公众号：AI悦创.jpg)
-
-
 ```
 name: ci
 
