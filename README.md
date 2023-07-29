@@ -4,4 +4,3 @@
 
 Good good study, day day up.
 
-a commit a day keeps your girlfriend away.
